@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "16A3EA631647DB37007C54CB"
-               BuildableName = "bP.app"
-               BlueprintName = "bP"
-               ReferencedContainer = "container:bP.xcodeproj">
+               BlueprintIdentifier = "169C16FF1654A75300928F45"
+               BuildableName = "Browser.app"
+               BlueprintName = "Browser"
+               ReferencedContainer = "container:Browser.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "16A3EA631647DB37007C54CB"
-            BuildableName = "bP.app"
-            BlueprintName = "bP"
-            ReferencedContainer = "container:bP.xcodeproj">
+            BlueprintIdentifier = "169C16FF1654A75300928F45"
+            BuildableName = "Browser.app"
+            BlueprintName = "Browser"
+            ReferencedContainer = "container:Browser.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -51,10 +51,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "16A3EA631647DB37007C54CB"
-            BuildableName = "bP.app"
-            BlueprintName = "bP"
-            ReferencedContainer = "container:bP.xcodeproj">
+            BlueprintIdentifier = "169C16FF1654A75300928F45"
+            BuildableName = "Browser.app"
+            BlueprintName = "Browser"
+            ReferencedContainer = "container:Browser.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -69,10 +69,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "16A3EA631647DB37007C54CB"
-            BuildableName = "bP.app"
-            BlueprintName = "bP"
-            ReferencedContainer = "container:bP.xcodeproj">
+            BlueprintIdentifier = "169C16FF1654A75300928F45"
+            BuildableName = "Browser.app"
+            BlueprintName = "Browser"
+            ReferencedContainer = "container:Browser.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

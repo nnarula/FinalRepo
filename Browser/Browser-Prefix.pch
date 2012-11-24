@@ -1,5 +1,5 @@
 //
-// Prefix header for all source files of the 'bP' target in the 'bP' project
+// Prefix header for all source files of the 'Browser' target in the 'Browser' project
 //
 
 #import <Availability.h>

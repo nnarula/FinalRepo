@@ -1,14 +1,14 @@
 //
-//  bPAppDelegate.m
-//  bP
+//  BrowserAppDelegate.m
+//  Browser
 //
-//  Created by ios on 05/11/12.
+//  Created by ios on 15/11/12.
 //  Copyright (c) 2012 Samar's Mac . All rights reserved.
 //
 
-#import "bPAppDelegate.h"
+#import "BrowserAppDelegate.h"
 
-@implementation bPAppDelegate
+@implementation BrowserAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
